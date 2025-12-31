@@ -1,16 +1,15 @@
-## Hi there 👋
+👋 Hi, I'm **Towhidul Islam**
 
-<!--
-**towhidhere-ds/towhidhere-ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work in Machine Learning and I like using data to explain how things actually work. I come from a Management Information Systems background, along with Computer Science training, so I approach problems with both a business mindset and a technical lens.
 
-Here are some ideas to get you started:
+A lot of my learning comes from building. I'm working on projects that involve data cleaning, feature exploration, predictive modeling, dashboards, and research-driven analysis. I enjoy taking a messy dataset, asking a clear question, and using Python or SQL to find an answer that feels useful.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I work with:**
+Python (data processing, feature engineering, exploratory data analysis)
+Machine Learning (regression, classification, model evaluation)
+Statistics (hypothesis testing, probability, sampling)
+SQL
+Tableau and Power BI
+Business and marketing analytics
+
+I'm still growing and adding more work to my portfolio. I care about steady progress and letting the results show over time.
